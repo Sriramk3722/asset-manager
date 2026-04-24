@@ -58726,7 +58726,7 @@ if(s!=null){s.au()
 s.d0()
 this.dY$=null}this.kt()}}
 A.K_.prototype={
-aa(){return new A.a9q(A.b([new A.Dd("Profile & Account",B.i3,B.a2J),new A.Dd("Organisation",B.ra,B.a2x),new A.Dd("Danger Zone",B.yo,B.a2O)],t.IY))}}
+aa(){return new A.a9q(A.b([new A.Dd("Profile & Account",B.i3,B.a2J),new A.Dd("Organisation",B.ra,B.a2x),new A.Dd("Delete and Reset",B.yo,B.a2O)],t.IY))}}
 A.a9q.prototype={
 E(a){var s=this,r=A.P(a).ax.a===B.az,q=A.bn(a,null,t.w).w,p=s.e,o=s.d
 return q.a.a<600?new A.a6l(p,o,new A.aTC(s),r,null):new A.a3Y(p,o,new A.aTD(s),r,null)}}
@@ -59420,7 +59420,7 @@ A.a3C.prototype={
 E(a){var s=this,r=null,q=s.c,p=A.U(12),o=A.bc(A.r(64,B.bS.j()>>>16&255,B.bS.j()>>>8&255,B.bS.j()&255),1),n=t.p
 p=A.a0(r,A.ac(A.b([B.a3t,B.b5,A.ag(A.C("The following actions are permanent and cannot be undone. Export a full backup before making any changes here.",r,r,r,r,A.jE(B.bS).zc(1.5),r,r,r),1)],n),B.a1,B.v,B.y,0,r),B.A,r,r,new A.a_(B.VC,r,o,p,r,r,B.L),r,r,r,B.hJ,r,r,r)
 o=A.r(51,B.bS.j()>>>16&255,B.bS.j()>>>8&255,B.bS.j()&255)
-return A.af(A.b([new A.De("Danger Zone","Irreversible operations \u2014 proceed with extreme caution",B.yo,B.bS,q,r),B.cG,p,B.bq,new A.mF(A.af(A.b([A.aQK(B.bS,B.a29,q,"Delete All Assets",new A.aJR(s,a),"Permanently remove every asset from the database",new A.C8("Irreversible",B.bS,r)),new A.o3(q,r),A.aQK(B.c9,B.a2j,q,"Reset to Factory Defaults",new A.aJS(s,a),"Remove all data and restore original application settings",new A.C8("Destructive",B.c9,r)),new A.o3(q,r),A.aQK(B.bS,B.a2d,q,"Delete Account",new A.aJT(s,a),"Permanently delete your account and all associated data",new A.C8("Permanent",B.bS,r))],n),B.E,B.v,B.y),q,o,B.bb,r),B.iE],n),B.a1,B.v,B.y)},
+return A.af(A.b([new A.De("Delete and Reset","Irreversible operations \u2014 proceed with extreme caution",B.yo,B.bS,q,r),B.cG,p,B.bq,new A.mF(A.af(A.b([A.aQK(B.bS,B.a29,q,"Delete All Assets",new A.aJR(s,a),"Permanently remove every asset from the database",new A.C8("Irreversible",B.bS,r)),new A.o3(q,r),A.aQK(B.c9,B.a2j,q,"Reset to Factory Defaults",new A.aJS(s,a),"Remove all data and restore original application settings",new A.C8("Destructive",B.c9,r)),new A.o3(q,r),A.aQK(B.bS,B.a2d,q,"Delete Account",new A.aJT(s,a),"Permanently delete your account and all associated data",new A.C8("Permanent",B.bS,r))],n),B.E,B.v,B.y),q,o,B.bb,r),B.iE],n),B.a1,B.v,B.y)},
 N9(a,b,c,d,e){var s=null
 A.kB(s,s,!0,s,new A.aJN(this,e,c,b,a,d),a,s,!0,t.z)},
 Eu(a,b){var s=null
